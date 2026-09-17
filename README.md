@@ -32,6 +32,8 @@ python dsa_lab/exp06_insertion_sort.py
 | 08 | [exp08_counting_sort.py](dsa_lab/exp08_counting_sort.py)    | Counting sort (linear, non-negative integers)   | O(n+k), O(n+k)                        |
 | 09 | [exp09_selection_sort.py](dsa_lab/exp09_selection_sort.py)  | Selection sort                                  | O(n²), O(1)                           |
 | 10 | [exp10_triangle_loop.py](dsa_lab/exp10_triangle_loop.py)    | Multiplication triangle via nested loops        | O(n²), O(1)                           |
+| 11 | [exp11_merge_sort.py](dsa_lab/exp11_merge_sort.py)          | Merge sort                                      | O(n log n), O(n)                      |
+| 12 | [exp12_quick_sort.py](dsa_lab/exp12_quick_sort.py)          | Quick sort                                      | Best/Avg O(n log n), Worst O(n²), O(log n) |
 
 ## Author
 
